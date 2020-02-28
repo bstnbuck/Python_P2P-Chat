@@ -23,7 +23,7 @@ To do so, run the command "pip install -r requirements.txt" in the folder where 
     * B -> A: coinflip
     * A and B gets the output of the coinflip, otherwise there will be multiple errors!
   
-### Informations
+### Information
 * The Code is self-explanatory commented
 
 ### Known Bugs
